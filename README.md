@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamsk001
-- 👀 I’m interested in ETHICAL HACKING
-- 🌱 I’m currently learning PYTHON
+- 👀 I’m interested in ____/____/__
+- 🌱 I’m currently learning ____
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
